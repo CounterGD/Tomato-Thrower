@@ -3,9 +3,6 @@
 .env.*
 !.env.example
 
-# Node.js dependencies
-node_modules/
-
 # Debug logs
 npm-debug.log*
 yarn-debug.log*
